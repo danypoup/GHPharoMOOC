@@ -9,3 +9,9 @@ DPODummy >> ping [
 
 	^ 'pong'
 ]
+
+{ #category : #'as yet unclassified' }
+DPODummy >> pointer [ 
+
+	^ 'ping'
+]
