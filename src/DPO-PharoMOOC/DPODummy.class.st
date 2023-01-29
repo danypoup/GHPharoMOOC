@@ -11,12 +11,6 @@ DPODummy >> ping [
 ]
 
 { #category : #'as yet unclassified' }
-DPODummy >> pointer [ 
-
-	^ 'ping'
-]
-
-{ #category : #'as yet unclassified' }
 DPODummy >> pong [
 
 	^ 'ping'
